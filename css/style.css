@@ -321,3 +321,10 @@ footer {
   padding-bottom: 20px !important;
   background: white;
 }
+
+.tag {
+  padding: 10px;
+  color: white;
+  border-radius: 4px;
+  background-color: #1DBC7C
+}
